@@ -19,8 +19,7 @@
           "Episodes": [
             {
               "Title": "vdsvsdvdssvdvdsvdsvsd",
-              "ImageBack": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
-              "ImageMain": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
+              "Image": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
               "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
               "Description": "    ",
               "Date": "202222",
