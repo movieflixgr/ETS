@@ -1,29 +1,37 @@
 {
   "Series": [
     {
-      "Title": "Ego O Apaisiotatos 11Ego O Apaisiotatos 11Ego O Apaisiotatos 11Ego O Apaisiotatos 11",
-      "ImageBack": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
-      "ImageMain": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
-      "Video": "https://mediaserve.ert.gr/bpk-vod/vodext/default/kane-oti-koimasai-s01-ep28/kane-oti-koimasai-s01-ep28/index.mpd",
-      "Description": "cxvvxc",
-      "Year": "2022022",
-      "Genre": "COMEDY",
-      "Duration": "1h 23m 23s",
+      "Title": "Survivor All Star",
+      "ImageBack": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/reality/survivor_landscape_new2.jpg",
+      "ImageMain": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/reality/survivor_landscape_new2.jpg",
+      "Description": "Το SURVIVOR γίνεται ALL STAR και επιστρέφει στον ΣΚΑΪ στην πιο σκληρή και απαιτητική εκδοχή του. Οι κορυφαίοι Έλληνες Survivors, επιστρέφουν στην αρένα όπου άλλαξε η ζωή τους, για έναν ακόμα γύρο. Οι καλύτεροι παίκτες όλων των σεζόν θα βρεθούν ξανά μαζί σε μία ανανεωμένη, εκρηκτική χημεία χαρακτήρων και αγωνισμάτων. Πόσο προετοιμασμένοι είναι για αυτή την επιστροφή; Πώς θα αλληλεπιδράσουν; Τι αλλάζει φέτος; Ένα μόνο είναι σίγουρο: διατηρώντας όλα τα αυθεντικά στοιχεία του μεγαλύτερου ριάλιτι στον κόσμο, το SURVIVOR ALL STAR θα συστήσει μια πρωτόγνωρη, δυναμική, καθημερινή εμπειρία. Ο Γιώργος Λιανός, μοναδικός στο πόστο του, συναντιέται ξανά μαζί τους και αναμεταδίδει κάθε αναμέτρηση από τους στίβους μάχης ενώ είναι αυτός που με το χαρακτηριστικό του χιούμορ, διαχειρίζεται κάθε διαφωνία, αστεία ή συγκινητική στιγμή.",
+      "Year": "2023",
+      "Genre": "Reality Show",
+      "Duration": "~3ώ 0λ",
       "isUnlocked": true,
       "Seasons": [
         {
-          "Title": "SASDDAS",
-          "Image": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1662606141/products/pim/4260488130811-3258630/nature-love-msm-tabletten-mit-vitamin-c-365-st",
-          "Year": "2022",
+          "Title": "All Star",
+          "Image": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/reality/survivor_landscape_new2.jpg",
+          "Year": "2023",
           "isUnlocked": true,
           "Episodes": [
             {
-              "Title": "vdsvsdvdssvdvdsvdsvsd",
+              "Title": "Επεισόδιο 2",
               "Image": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
-              "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+              "Video": "https://backend.dna-delivery.com/router/v2/8fdb150b-7557-47fe-8854-6030ed961886/content/videostream.skai.gr%2Fskaivod%2F_definst_%2Fmp4%3Askai%2FGrCyTargeting%2FGr%2FSurvivorAllStar%2Fsurvivor20230109xx.mp4%2Fchunklist.m3u8",
               "Description": "    ",
-              "Date": "202222",
-              "Duration": "1h 25m 52s",
+              "Date": "09/01/2023",
+              "Duration": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 1",
+              "Image": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/reality/sur9.1c.jpg",
+              "Video": "https://backend.dna-delivery.com/router/v2/8fdb150b-7557-47fe-8854-6030ed961886/content/videostream.skai.gr%2Fskaivod%2F_definst_%2Fmp4%3Askai%2FGrCyTargeting%2FGr%2FSurvivorAllStar%2Fpaixnidi20230110.mp4%2Fchunklist.m3u8",
+              "Description": "    ",
+              "Date": "08/01/2023",
+              "Duration": "",
               "isUnlocked": true
             }
           ]
