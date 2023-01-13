@@ -1,36 +1,63 @@
 {
   "Series": [
     {
-      "Title": "Survivor All Star",
-      "ImageBack": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/reality/survivor_landscape_new2.jpg",
-      "ImageMain": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/reality/survivor_landscape_new2.jpg",
-      "Description": "Το SURVIVOR γίνεται ALL STAR και επιστρέφει στον ΣΚΑΪ στην πιο σκληρή και απαιτητική εκδοχή του. Οι κορυφαίοι Έλληνες Survivors, επιστρέφουν στην αρένα όπου άλλαξε η ζωή τους, για έναν ακόμα γύρο. Οι καλύτεροι παίκτες όλων των σεζόν θα βρεθούν ξανά μαζί σε μία ανανεωμένη, εκρηκτική χημεία χαρακτήρων και αγωνισμάτων. Πόσο προετοιμασμένοι είναι για αυτή την επιστροφή; Πώς θα αλληλεπιδράσουν; Τι αλλάζει φέτος; Ένα μόνο είναι σίγουρο: διατηρώντας όλα τα αυθεντικά στοιχεία του μεγαλύτερου ριάλιτι στον κόσμο, το SURVIVOR ALL STAR θα συστήσει μια πρωτόγνωρη, δυναμική, καθημερινή εμπειρία. Ο Γιώργος Λιανός, μοναδικός στο πόστο του, συναντιέται ξανά μαζί τους και αναμεταδίδει κάθε αναμέτρηση από τους στίβους μάχης ενώ είναι αυτός που με το χαρακτηριστικό του χιούμορ, διαχειρίζεται κάθε διαφωνία, αστεία ή συγκινητική στιγμή.",
-      "Year": "2023",
-      "Genre": "Reality Show",
-      "Duration": "~3ώ 0λ",
+      "Title": "Το Κόκκινο Δωμάτιο",
+      "ImageBack": "https://www.megatv.com/wp-content/uploads/2020/09/%CE%A4%CE%9F-%CE%9A%CE%9F%CE%9A%CE%9A%CE%99%CE%9D%CE%9F-%CE%94%CE%A9%CE%9C%CE%91%CE%A4%CE%99%CE%9F.jpg",
+      "ImageMain": "https://www.megatv.com/wp-content/uploads/2020/09/5-830-1024x576.jpeg",
+      "Description": "Κόκκινο δωμάτιο ή αλλιώς η κόκκινη σουίτα του ξενοδοχείου Conte de Mare. Το μέρος που «φιλοξενεί» απρόοπτα και περίεργες καταστάσεις ανάμεσα στους πελάτες και το προσωπικό του κεντρικού ξενοδοχείου.",
+      "Year": "2005",
+      "Genre": "Τηλεοπτικές Σειρές",
+      "Duration": "~50λ.",
       "isUnlocked": true,
       "Seasons": [
         {
-          "Title": "All Star",
-          "Image": "https://media.skaitv.gr/images/1280/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/reality/survivor_landscape_new2.jpg",
-          "Year": "2023",
+          "Title": "1ος Κύκλος",
+          "Image": "https://www.megatv.com/wp-content/uploads/2020/09/%CE%A4%CE%9F-%CE%9A%CE%9F%CE%9A%CE%9A%CE%99%CE%9D%CE%9F-%CE%94%CE%A9%CE%9C%CE%91%CE%A4%CE%99%CE%9F.jpg",
+          "Year": "2005",
           "isUnlocked": true,
           "Episodes": [
             {
-              "Title": "Επεισόδιο 2",
-              "Image": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
-              "Video": "https://backend.dna-delivery.com/router/v2/8fdb150b-7557-47fe-8854-6030ed961886/content/videostream.skai.gr%2Fskaivod%2F_definst_%2Fmp4%3Askai%2FGrCyTargeting%2FGr%2FSurvivorAllStar%2Fsurvivor20230109xx.mp4%2Fchunklist.m3u8",
-              "Description": "    ",
-              "Date": "09/01/2023",
+              "Title": "Επεισόδιο 82",
+              "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-822-1024x576.jpeg",
+              "Video": "https://streamcdnh7-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/vod/2QY5eInaPx78/f13577fd-e7a1-4046-bed2-ce6f595f6e3c/PK6/playlist.m3u8",
+              "Description": "Ο αστυνόμος Σαμολαδάς έπιασε δουλειά. Είναι όλοι τους ύποπτοι. Πελάτες του ξενοδοχείου και προσωπικό, κανείς δεν θα ξεφύγει από τις δαιμόνιες ερωτήσεις του… ‘Ομως, όλα αυτά έχουν συμβεί το 1975. Σήμερα όλο το προσωπικό του Conte Del Mare κρέμεται από τα χείλη του Χαρδαβέλα, για να μάθει τον ένοχο…",
+              "Date": "",
               "Duration": "",
               "isUnlocked": true
             },
             {
-              "Title": "Επεισόδιο 1",
-              "Image": "https://media.skaitv.gr/images/450/0/files/1/TV%20%20Photo%20archive/tv_photos_980_400/reality/sur9.1c.jpg",
-              "Video": "https://backend.dna-delivery.com/router/v2/8fdb150b-7557-47fe-8854-6030ed961886/content/videostream.skai.gr%2Fskaivod%2F_definst_%2Fmp4%3Askai%2FGrCyTargeting%2FGr%2FSurvivorAllStar%2Fpaixnidi20230110.mp4%2Fchunklist.m3u8",
-              "Description": "    ",
-              "Date": "08/01/2023",
+              "Title": "Επεισόδιο 81",
+              "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-823-1024x576.jpeg",
+              "Video": "https://streamcdnh23-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/vod/SgCzpg65fKpS/8b5d7454-2ffc-44e3-bf67-5710b05c5924/PK6/playlist.m3u8",
+              "Description": "Μια αναπάντεχη επίσκεψη αναστατώνει το Conte Del Mare. Ο Κώστας Χαρδαβέλας έχει έρθει να φωτίσει με το ρεπορτάζ του ένα έγκλημα που έγινε στο ξενοδοχείο πριν από πενήντα χρόνια! Πρωτοχρονιά, 1975, οι υπάλληλοι του ξενοδοχείου ετοιμάζονται για το Πρωτοχρονιάτικο ρεβεγιόν… ένας φόνος καθιστά προσωπικό και πελάτες ύποπτους, ο αστυνόμος, όμως, Σαμολαδάς καλείται να εξιχνιάσει την υπόθεση…",
+              "Date": "",
+              "Duration": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 79",
+              "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-825-1024x576.jpeg",
+              "Video": "https://streamcdnh3-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/vod/HxBOfuPPFEDh/3aeec57a-6da8-4254-9959-c227687ca3f6/PK6/playlist.m3u8",
+              "Description": "Η κυρία Κόλλια μπορεί να ήξερε να ξεχωρίζει τους καλούς απ’ τους κακούς μαθητές, αλλά έξω απ’ τη σχολική τάξη μπερδεύει τα καλά παιδιά για απατεώνες και τους απατεώνες για καλά παιδιά. Ποιος θα μπορέσει να τη σώσει από την επικίνδυνη περιπέτεια στην οποία πάει να μπλέξει;",
+              "Date": "",
+              "Duration": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 78",
+              "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-826-1024x576.jpeg",
+              "Video": "https://streamcdnh13-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/vod/sHwmzfQCQDsu/efc8e999-595f-4352-816e-1363a0d103bd/PK6/playlist.m3u8",
+              "Description": "Η κυρία Κόλλια επιστρέφει! Χρόνια μετά από την πενταήμερη που ξεσήκωσε το ξενοδοχείο, η πρώην καθηγήτρια πήρε τη σύνταξή της και είπε να κάνει μια στάση να ξαποστάσει στο Κόκκινο Δωμάτιο. Στο ξενοδοχείο, όμως, θα πέσει πάνω σε παλιούς μαθητές της: στον Στράτο Σαλταμούρα που την εντυπωσιάζει με τα σχολικά ρητά που κράτησε ανέπαφα στη μνήμη του τόσα χρόνια, και στον Μαρτσέλο που της έκανε στο σχολείο το βίο αβίωτο! Ο Μαρτσέλο, όμως, καταλαβαίνει ότι ο Στράτος σχεδιάζει κάποια απατεωνιά, μαζί με τον φίλο του, Κυριάκο και ότι έχουν σκοπό να χρησιμοποιήσουν την ανίδεη κυρία Κόλλια στα σατανικά τους σχέδια…",
+              "Date": "",
+              "Duration": "",
+              "isUnlocked": true
+            },
+            {
+              "Title": "Επεισόδιο 77",
+              "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-827-1024x576.jpeg",
+              "Video": "https://streamcdnh18-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/vod/52DuSSaqpbOn/ad4a3912-54ff-40d8-ba76-a812f8b90364/PK6/playlist.m3u8",
+              "Description": "Ολοι έχουν φιλοξενηθεί στο Κόκκινο Δωμάτιο: δολοφόνοι, επιτυχημένοι και μη, ιδανικοί κι ανάξιοι τρομοκράτες, άπιστοι σύζυγοι και μοιραίες γυναίκες, κλέφτες κι αστυνόμοι, διάσημες ντίβες κι άπορες κορασίδες, ε, να μη φιλοξενηθεί και μια αθεράπευτα ζηλιάρα σύζυγος; Η Φανή, λατρεύει τον άντρα της Αντώνη, αλλά μισεί το επάγγελμά του. Ο Αντώνης, βλέπετε, είναι προπονητής της γυναικείας ομάδας βόλεϊ Αγρινίου, που σημαίνει ότι περιτριγυρίζεται συνεχώς από όμορφες νεαρές αθλήτριες. Η Φανή ακολουθεί τον Αντώνη στην Αθήνα, όπου έχει έρθει με την ομάδα του για έναν αγώνα βόλεϊ κι όσο εκείνος προπονεί την ομάδα του, εκείνη προπονεί τα νεύρα του… Είναι άραγε ο Αντώνης ένα αθώο θύμα της παθολογικής της ζήλιας; ‘Η Φανή, πάντως, είναι έτοιμη να κάνει τα πάντα για χάρη του. Αρκεί να μην της στερήσει το δικαίωμα της στη ζήλια!",
+              "Date": "",
               "Duration": "",
               "isUnlocked": true
             }
