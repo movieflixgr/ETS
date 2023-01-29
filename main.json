@@ -23,7 +23,8 @@
               "Description": "",
               "Date": "",
               "Duration": "",
-              "isUnlocked": true
+              "isUnlocked": true,
+              "Fetch": ""
             },
             {
               "Title": "Επεισόδιο 30",
@@ -34,8 +35,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0
-              },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 29",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221220_AYTH_H_NYXTA_MENEI_S01_EPS029.jpg",
@@ -45,7 +47,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": ,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 28",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221219_AYTH_H_NYXTA_MENEI_S01_EPS028.jpg",
@@ -55,7 +59,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 27",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221214_AYTH_H_NYXTA_MENEI_S01_EPS027.jpg",
@@ -65,7 +71,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 26",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221213_AYTH_H_NYXTA_MENEI_S01_EPS026.jpg",
@@ -75,7 +83,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 25",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221212_AYTH_H_NYXTA_MENEI_S01_EPS025.jpg",
@@ -85,7 +95,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 24",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221207_AYTH_H_NYXTA_MENEI_S01_EPS024.jpg",
@@ -95,7 +107,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 23",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221206_AYTH_H_NYXTA_MENEI_S01_EPS023.jpg",
@@ -105,7 +119,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 22",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221205_AYTH_H_NYXTA_MENEI_S01_EPS022.jpg",
@@ -115,7 +131,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 21",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221130_AYTH_H_NYXTA_MENEI_S01_EPS021.jpg",
@@ -125,7 +143,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 20",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221129_AYTH_H_NYXTA_MENEI_S01_EPS020.jpg",
@@ -135,7 +155,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 19",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221128_AYTH_H_NYXTA_MENEI_S01_EPS019.jpg",
@@ -145,7 +167,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 18",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221123_AYTH_H_NYXTA_MENEI_S01_EPS018.jpg",
@@ -155,7 +179,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 17",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221122_AYTH_H_NYXTA_MENEI_S01_EPS017.jpg",
@@ -165,7 +191,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 16",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221121_AYTH_H_NYXTA_MENEI_S01_EPS016.jpg",
@@ -175,7 +203,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 15",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221116_AYTH_H_NYXTA_MENEI_S01_EPS015.jpg",
@@ -185,7 +215,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 14",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221115_AYTH_H_NYXTA_MENEI_S01_EPS014.jpg",
@@ -195,7 +227,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 13",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221115_AYTH_H_NYXTA_MENEI_S01_EPS013.jpg",
@@ -205,7 +239,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 12",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221109_AYTH_H_NYXTA_MENEI_S01_EPS012.jpg",
@@ -215,7 +251,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 11",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221108_AYTH_H_NYXTA_MENEI_S01_EPS011.jpg",
@@ -225,7 +263,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 10",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221107_AYTH_H_NYXTA_MENEI_S01_EPS010.jpg",
@@ -235,7 +275,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 9",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221102_AYTH_H_NYXTA_MENEI_S01_EPS009.jpg",
@@ -245,7 +287,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 8",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221102_AYTH_H_NYXTA_MENEI_S01_EPS008.png",
@@ -255,7 +299,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 7",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221031_AYTH_H_NYXTA_MENEI_S01_EPS007.jpg",
@@ -265,7 +311,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 6",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221025_AYTH_H_NYXTA_MENEI_S01_EPS006.jpg",
@@ -275,7 +323,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 5",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221024_AYTH_H_NYXTA_MENEI_S01_EPS005.jpg",
@@ -285,7 +335,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 4",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221018_AYTH_H_NYXTA_MENEI_S01_EPS004.jpg",
@@ -295,7 +347,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 3",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221017_AYTH_H_NYXTA_MENEI_S01_EPS003.jpg",
@@ -305,7 +359,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 2",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221011_AYTH_H_NYXTA_MENEI_S01_EPS002.png",
@@ -315,7 +371,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 1",
               "Image": "https://www.alphatv.gr/images/564x317/files/00_ALPHA_PHOTOS/2022-2023/Video_Thumbs/Afti_i_nyxta/20221010_AYTH_H_NYXTA_MENEI_S01_EPS001.jpg",
@@ -325,7 +383,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            }
+              "beforeEnd": 0,
+              "Fetch": ""
+            }
           ]
         }
       ]
@@ -355,7 +415,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 3",
               "Image": "https://ant1media.azureedge.net/imgHandler/612/b6066727-40ee-493e-90b0-93bfa432ddca.jpg",
@@ -365,7 +427,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 2",
               "Image": "https://ant1media.azureedge.net/imgHandler/612/6e6c2f26-9f96-4b3f-ba60-b9ec27064dc4.jpg",
@@ -375,7 +439,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 1",
               "Image": "https://ant1media.azureedge.net/imgHandler/612/cd475b9b-18b7-4852-94a4-3c5527e60124.jpg",
@@ -385,7 +451,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            }
+              "beforeEnd": 0,
+              "Fetch": ""
+            }
           ]
         }
       ]
@@ -415,7 +483,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 60",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-364-300x169.jpeg",
@@ -425,7 +495,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 59",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-365-300x169.jpeg",
@@ -435,7 +507,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 58",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-366-300x169.jpeg",
@@ -445,7 +519,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 57",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-367-300x169.jpeg",
@@ -455,7 +531,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 56",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-368-300x169.jpeg",
@@ -465,7 +543,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 55",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-369-300x169.jpeg",
@@ -475,7 +555,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 54 ",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-370-300x169.jpeg",
@@ -485,7 +567,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 52 ",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-372-300x169.jpeg",
@@ -495,7 +579,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 51 ",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-373-300x169.jpeg",
@@ -505,7 +591,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 50",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-374-300x169.jpeg",
@@ -515,7 +603,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 49",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-375-300x169.jpeg",
@@ -525,7 +615,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 48",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-376-300x169.jpeg",
@@ -535,7 +627,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 47",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-377-1024x576.jpeg",
@@ -545,7 +639,8 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
             {
               "Title": "Επεισόδιο 46",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-378-1024x576.jpeg",
@@ -555,7 +650,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 45",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-379-1024x576.jpeg",
@@ -565,7 +662,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 44",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-380-1024x576.jpeg",
@@ -575,7 +674,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 43",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-381-1024x576.jpeg",
@@ -585,7 +686,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 42",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-382-1024x576.jpeg",
@@ -595,7 +698,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 41",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-383-1024x576.jpeg",
@@ -605,7 +710,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 40",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-384-1024x576.jpeg",
@@ -615,7 +722,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 39",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-385-1024x576.jpeg",
@@ -625,7 +734,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 38",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-386-1024x576.jpeg",
@@ -635,7 +746,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 37",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-387-1024x576.jpeg",
@@ -645,7 +758,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 36",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-388-1024x576.jpeg",
@@ -655,7 +770,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 35",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-389-1024x576.jpeg",
@@ -665,7 +782,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 34",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-390-1024x576.jpeg",
@@ -675,7 +794,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 33",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-391-1024x576.jpeg",
@@ -685,7 +806,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 32",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-392-1024x576.jpeg",
@@ -695,7 +818,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 31",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-393-1024x576.jpeg",
@@ -705,7 +830,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 30",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-394-1024x576.jpeg",
@@ -715,7 +842,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 29",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-395-1024x576.jpeg",
@@ -725,7 +854,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 28",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-396-1024x576.jpeg",
@@ -735,7 +866,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 27",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-397-1024x576.jpeg",
@@ -745,7 +878,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 26",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-398-1024x576.jpeg",
@@ -755,7 +890,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 25",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-399-1024x576.jpeg",
@@ -765,7 +902,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 24",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-400-1024x576.jpeg",
@@ -775,7 +914,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 23",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-401-1024x576.jpeg",
@@ -785,7 +926,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 22",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-402-1024x576.jpeg",
@@ -795,7 +938,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 21",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-403-1024x576.jpeg",
@@ -805,7 +950,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 20",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-404-1024x576.jpeg",
@@ -815,7 +962,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 19",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-405-1024x576.jpeg",
@@ -825,7 +974,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 18",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-406-1024x576.jpeg",
@@ -835,7 +986,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 17",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-407-1024x576.jpeg",
@@ -845,7 +998,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 16",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-408-1024x576.jpeg",
@@ -855,7 +1010,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 15",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-409-1024x576.jpeg",
@@ -865,7 +1022,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 14",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-410-1024x576.jpeg",
@@ -875,7 +1034,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 13",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-411-1024x576.jpeg",
@@ -885,7 +1046,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 12",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-412-1024x576.jpeg",
@@ -895,7 +1058,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 11",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-413-1024x576.jpeg",
@@ -905,7 +1070,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 10",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-414-1024x576.jpeg",
@@ -915,7 +1082,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 9",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-415-1024x576.jpeg",
@@ -925,7 +1094,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 8",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-416-1024x576.jpeg",
@@ -935,7 +1106,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 7",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-417-1024x576.jpeg",
@@ -945,7 +1118,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 6",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-418-1024x576.jpeg",
@@ -955,7 +1130,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 5",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-419-1024x576.jpeg",
@@ -965,7 +1142,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 4",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-420-1024x576.jpeg",
@@ -975,7 +1154,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 3",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-421-1024x576.jpeg",
@@ -985,7 +1166,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 2",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-422-1024x576.jpeg",
@@ -995,7 +1178,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 1",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-423-1024x576.jpeg",
@@ -1005,7 +1190,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            }
+              "beforeEnd": 0,
+              "Fetch": ""
+            }
           ]
         }
       ]
@@ -1035,7 +1222,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 81",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-823-1024x576.jpeg",
@@ -1045,7 +1234,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 79",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-825-1024x576.jpeg",
@@ -1055,7 +1246,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 78",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-826-1024x576.jpeg",
@@ -1065,7 +1258,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            },
+              "beforeEnd": 0,
+              "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 77",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-827-1024x576.jpeg",
@@ -1075,7 +1270,9 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": 0            }
+              "beforeEnd": 0,
+              "Fetch": ""
+            }
           ]
         }
       ]
