@@ -47,7 +47,7 @@
               "Duration": "",
               "isUnlocked": true,
               "fetchVideo": false,
-              "beforeEnd": ,
+              "beforeEnd": 0,
               "Fetch": ""
             },
             {
@@ -641,6 +641,7 @@
               "fetchVideo": false,
               "beforeEnd": 0,
               "Fetch": ""
+            },
             {
               "Title": "Επεισόδιο 46",
               "Image": "https://www.megatv.com/wp-content/uploads/2020/09/5-378-1024x576.jpeg",
